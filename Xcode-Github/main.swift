@@ -8,5 +8,15 @@
 
 import Foundation
 
-print("Hello, World!")
+//control flow
 
+let day = "Friday"
+
+if day ==
+    "Friday" {
+    print("the weekend is here")
+} else {
+    print("pursuit happiness")
+}
+
+//TODO
